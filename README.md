@@ -6,4 +6,4 @@ This Python code provides a simple way to hide text messages within images using
 
 ## Example usage:
 To encode run `pysteg e` and to decode run `pyteg d`
-Both of these will promt the user.
+Both of these will prompt the user.
